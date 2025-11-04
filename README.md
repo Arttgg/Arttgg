@@ -65,3 +65,11 @@ Me chamo Arthur, tenho 20 anos e sou de Belo Horizonte. Atualmente estou cursand
   />
 
 </p>
+
+##
+
+<div align=center>
+    
+<img src="https://raw.githubusercontent.com/Arttgg/Arttgg/output/snake.svg" alt="Snake animation" />
+
+</div>
